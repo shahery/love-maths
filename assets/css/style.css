@@ -92,7 +92,7 @@ body {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: white;
+    color: black;
 }
 
 .btn:focus {
@@ -168,6 +168,7 @@ body {
     background-color: grey;
     border: 1px transparent;
     border-radius: 20px;
+   
 }
 
 .btn--gray:active,
